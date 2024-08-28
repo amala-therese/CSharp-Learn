@@ -1,0 +1,14 @@
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\bin\Debug\net7.0\CSharpConcepts.exe
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\bin\Debug\net7.0\CSharpConcepts.deps.json
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\bin\Debug\net7.0\CSharpConcepts.runtimeconfig.json
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\bin\Debug\net7.0\CSharpConcepts.dll
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\bin\Debug\net7.0\CSharpConcepts.pdb
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\CSharpConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\CSharpConcepts.AssemblyInfoInputs.cache
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\CSharpConcepts.AssemblyInfo.cs
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\CSharpConcepts.csproj.CoreCompileInputs.cache
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\CSharpConcepts.dll
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\refint\CSharpConcepts.dll
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\CSharpConcepts.pdb
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\CSharpConcepts.genruntimeconfig.cache
+C:\Users\amala.george\CSharpLearn\CSharpConcepts\obj\Debug\net7.0\ref\CSharpConcepts.dll
