@@ -1,4 +1,6 @@
 ﻿
+using SimpleDelegateExample;
+
 namespace CSharpConcepts
 {
     class Program
@@ -30,6 +32,9 @@ namespace CSharpConcepts
             Console.WriteLine($"Area: {rectangle.GetArea()}");
             Console.WriteLine($"Perimeter: {rectangle.GetPerimeter()}");
             rectangle.DisplayInfo(); // Calling a concrete method from the abstract class
+
+            DelegateSample del = new DelegateSample();
+            del.Run();  // This will use the delegate to call Greet
         
         }
     }
