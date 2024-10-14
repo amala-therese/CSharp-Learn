@@ -35,6 +35,19 @@ namespace CSharpConcepts
 
             DelegateSample del = new DelegateSample();
             del.Run();  // This will use the delegate to call Greet
+
+            // Using the generic Box class
+            Box<int> intBox = new Box<int>();
+            intBox.StoreItem(42);
+            Console.WriteLine(intBox.RetrieveItem());
+            
+            Box<string> stringBox = new Box<string>();
+            stringBox.StoreItem("Hello, Generics!");
+            Console.WriteLine(stringBox.RetrieveItem());
+            
+            // Using the generic method
+            Utilities.PrintItem(123);            // Output: Printing item: 123
+            Utilities.PrintItem("Generics");     // Output: Printing item: Generics
         
         }
     }
